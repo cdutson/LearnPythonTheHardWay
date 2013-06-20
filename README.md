@@ -1,4 +1,4 @@
-LearnGitTheHardWay
+LearnPythonTheHardWay
 ==================
 
 Using Python 2.7.5
